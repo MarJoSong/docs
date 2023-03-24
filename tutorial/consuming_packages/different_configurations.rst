@@ -163,7 +163,6 @@ using the ``--options`` argument. To do so, please run:
 
 
 .. code-block:: bash
-    :caption: Windows
 
     $ conan install . --output-folder=build --build=missing --options=zlib/1.2.11:shared=True
 
